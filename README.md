@@ -1,2 +1,2 @@
-# Esc-ner-de-Puertos
+# Escaner-de-Puertos
 Proyecto colaborativo para resolución de problemas cibernéticos.
